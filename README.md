@@ -4,7 +4,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsourav&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsourav" /> </p>
 
-- 👨‍💻 My recent project [Weather App](https://github.com/shivamsourav/weatherapp)
+- 👨‍💻 My recent project [Weather App](https://cool-weather-app-ss.netlify.app/)
 
 - 🌱 I’m currently working on my skills in  **Dsa, React.JS, C++.**
 
